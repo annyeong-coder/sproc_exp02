@@ -1,0 +1,161 @@
+segment,text,participant,item,condition,factor1,factor2,accuracy,rt,sentence
+1,The chairs,PPT01,critical_04,PS,plural,singular,1,1197,The chairs*in the office*were*sorted*by size.
+2,in the office,PPT01,critical_04,PS,plural,singular,1,864,The chairs*in the office*were*sorted*by size.
+3,were,PPT01,critical_04,PS,plural,singular,1,2916,The chairs*in the office*were*sorted*by size.
+4,sorted,PPT01,critical_04,PS,plural,singular,1,2444,The chairs*in the office*were*sorted*by size.
+5,by size.,PPT01,critical_04,PS,plural,singular,1,2228,The chairs*in the office*were*sorted*by size.
+1,The tables,PPT01,critical_03,PP,plural,plural,1,972,The tables*in the cafes*were*cleaned*with bleach.
+2,in the cafes,PPT01,critical_03,PP,plural,plural,1,868,The tables*in the cafes*were*cleaned*with bleach.
+3,were,PPT01,critical_03,PP,plural,plural,1,2534,The tables*in the cafes*were*cleaned*with bleach.
+4,cleaned,PPT01,critical_03,PP,plural,plural,1,2691,The tables*in the cafes*were*cleaned*with bleach.
+5,with bleach.,PPT01,critical_03,PP,plural,plural,1,1960,The tables*in the cafes*were*cleaned*with bleach.
+1,The stone,PPT01,critical_01,*SP,singular,plural,1,957,The stone*in the parks*were*covered*by grass.
+2,in the parks,PPT01,critical_01,*SP,singular,plural,1,887,The stone*in the parks*were*covered*by grass.
+3,were,PPT01,critical_01,*SP,singular,plural,1,2408,The stone*in the parks*were*covered*by grass.
+4,covered,PPT01,critical_01,*SP,singular,plural,1,2536,The stone*in the parks*were*covered*by grass.
+5,by grass.,PPT01,critical_01,*SP,singular,plural,1,1784,The stone*in the parks*were*covered*by grass.
+1,The flower,PPT01,critical_02,*SS,singular,singular,1,1101,The flower*in the field*were*buried*in snow.
+2,in the field,PPT01,critical_02,*SS,singular,singular,1,1152,The flower*in the field*were*buried*in snow.
+3,were,PPT01,critical_02,*SS,singular,singular,1,3784,The flower*in the field*were*buried*in snow.
+4,buried,PPT01,critical_02,*SS,singular,singular,1,4925,The flower*in the field*were*buried*in snow.
+5,in snow.,PPT01,critical_02,*SS,singular,singular,1,2113,The flower*in the field*were*buried*in snow.
+1,The flower,PPT02,critical_02,*SP,singular,plural,1,1225,The flower*in the fields*were*buried*in snow.
+2,in the fields,PPT02,critical_02,*SP,singular,plural,1,998,The flower*in the fields*were*buried*in snow.
+3,were,PPT02,critical_02,*SP,singular,plural,1,2704,The flower*in the fields*were*buried*in snow.
+4,buried,PPT02,critical_02,*SP,singular,plural,1,2878,The flower*in the fields*were*buried*in snow.
+5,in snow.,PPT02,critical_02,*SP,singular,plural,1,2964,The flower*in the fields*were*buried*in snow.
+1,The chairs,PPT02,critical_04,PP,plural,plural,1,1185,The chairs*in the offices*were*sorted*by size.
+2,in the offices,PPT02,critical_04,PP,plural,plural,1,972,The chairs*in the offices*were*sorted*by size.
+3,were,PPT02,critical_04,PP,plural,plural,1,2482,The chairs*in the offices*were*sorted*by size.
+4,sorted,PPT02,critical_04,PP,plural,plural,1,1528,The chairs*in the offices*were*sorted*by size.
+5,by size.,PPT02,critical_04,PP,plural,plural,1,1105,The chairs*in the offices*were*sorted*by size.
+1,The table,PPT02,critical_03,*SS,singular,singular,1,1249,The table*in the cafe*were*cleaned*with bleach.
+2,in the cafe,PPT02,critical_03,*SS,singular,singular,1,1023,The table*in the cafe*were*cleaned*with bleach.
+3,were,PPT02,critical_03,*SS,singular,singular,1,3928,The table*in the cafe*were*cleaned*with bleach.
+4,cleaned,PPT02,critical_03,*SS,singular,singular,1,4780,The table*in the cafe*were*cleaned*with bleach.
+5,with bleach.,PPT02,critical_03,*SS,singular,singular,1,1144,The table*in the cafe*were*cleaned*with bleach.
+1,The stones,PPT02,critical_01,PS,plural,singular,1,1164,The stones*in the park*were*covered*by grass.
+2,in the park,PPT02,critical_01,PS,plural,singular,1,1000,The stones*in the park*were*covered*by grass.
+3,were,PPT02,critical_01,PS,plural,singular,1,3301,The stones*in the park*were*covered*by grass.
+4,covered,PPT02,critical_01,PS,plural,singular,1,3232,The stones*in the park*were*covered*by grass.
+5,by grass.,PPT02,critical_01,PS,plural,singular,1,2084,The stones*in the park*were*covered*by grass.
+1,The chair,PPT03,critical_04,*SS,singular,singular,1,1029,The chair*in the office*were*sorted*by size.
+2,in the office,PPT03,critical_04,*SS,singular,singular,1,1156,The chair*in the office*were*sorted*by size.
+3,were,PPT03,critical_04,*SS,singular,singular,1,3185,The chair*in the office*were*sorted*by size.
+4,sorted,PPT03,critical_04,*SS,singular,singular,1,2953,The chair*in the office*were*sorted*by size.
+5,by size.,PPT03,critical_04,*SS,singular,singular,1,2936,The chair*in the office*were*sorted*by size.
+1,The table,PPT03,critical_03,*SP,singular,plural,1,945,The table*in the cafes*were*cleaned*with bleach.
+2,in the cafes,PPT03,critical_03,*SP,singular,plural,1,926,The table*in the cafes*were*cleaned*with bleach.
+3,were,PPT03,critical_03,*SP,singular,plural,1,3276,The table*in the cafes*were*cleaned*with bleach.
+4,cleaned,PPT03,critical_03,*SP,singular,plural,1,2231,The table*in the cafes*were*cleaned*with bleach.
+5,with bleach.,PPT03,critical_03,*SP,singular,plural,1,1210,The table*in the cafes*were*cleaned*with bleach.
+1,The flowers,PPT03,critical_02,PS,plural,singular,1,1834,The flowers*in the field*were*buried*in snow.
+2,in the field,PPT03,critical_02,PS,plural,singular,1,1105,The flowers*in the field*were*buried*in snow.
+3,were,PPT03,critical_02,PS,plural,singular,1,2916,The flowers*in the field*were*buried*in snow.
+4,buried,PPT03,critical_02,PS,plural,singular,1,2102,The flowers*in the field*were*buried*in snow.
+5,in snow.,PPT03,critical_02,PS,plural,singular,1,2007,The flowers*in the field*were*buried*in snow.
+1,The stones,PPT03,critical_01,PP,plural,plural,1,1513,The stones*in the parks*were*covered*by grass.
+2,in the parks,PPT03,critical_01,PP,plural,plural,1,1000,The stones*in the parks*were*covered*by grass.
+3,were,PPT03,critical_01,PP,plural,plural,1,2001,The stones*in the parks*were*covered*by grass.
+4,covered,PPT03,critical_01,PP,plural,plural,1,1359,The stones*in the parks*were*covered*by grass.
+5,by grass.,PPT03,critical_01,PP,plural,plural,1,2448,The stones*in the parks*were*covered*by grass.
+1,The stone,PPT04,critical_01,*SS,singular,singular,1,1489,The stone*in the park*were*covered*by grass.
+2,in the park,PPT04,critical_01,*SS,singular,singular,1,772,The stone*in the park*were*covered*by grass.
+3,were,PPT04,critical_01,*SS,singular,singular,1,3361,The stone*in the park*were*covered*by grass.
+4,covered,PPT04,critical_01,*SS,singular,singular,1,2654,The stone*in the park*were*covered*by grass.
+5,by grass.,PPT04,critical_01,*SS,singular,singular,1,1210,The stone*in the park*were*covered*by grass.
+1,The chair,PPT04,critical_04,*SP,singular,plural,1,1240,The chair*in the offices*were*sorted*by size.
+2,in the offices,PPT04,critical_04,*SP,singular,plural,1,573,The chair*in the offices*were*sorted*by size.
+3,were,PPT04,critical_04,*SP,singular,plural,1,2628,The chair*in the offices*were*sorted*by size.
+4,sorted,PPT04,critical_04,*SP,singular,plural,1,1987,The chair*in the offices*were*sorted*by size.
+5,by size.,PPT04,critical_04,*SP,singular,plural,1,2672,The chair*in the offices*were*sorted*by size.
+1,The flowers,PPT04,critical_02,PP,plural,plural,1,732,The flowers*in the fields*were*buried*in snow.
+2,in the fields,PPT04,critical_02,PP,plural,plural,1,566,The flowers*in the fields*were*buried*in snow.
+3,were,PPT04,critical_02,PP,plural,plural,1,2140,The flowers*in the fields*were*buried*in snow.
+4,buried,PPT04,critical_02,PP,plural,plural,1,1808,The flowers*in the fields*were*buried*in snow.
+5,in snow.,PPT04,critical_02,PP,plural,plural,1,2504,The flowers*in the fields*were*buried*in snow.
+1,The tables,PPT04,critical_03,PS,plural,singular,1,1187,The tables*in the cafe*were*cleaned*with bleach.
+2,in the cafe,PPT04,critical_03,PS,plural,singular,1,962,The tables*in the cafe*were*cleaned*with bleach.
+3,were,PPT04,critical_03,PS,plural,singular,1,2908,The tables*in the cafe*were*cleaned*with bleach.
+4,cleaned,PPT04,critical_03,PS,plural,singular,1,2430,The tables*in the cafe*were*cleaned*with bleach.
+5,with bleach.,PPT04,critical_03,PS,plural,singular,1,931,The tables*in the cafe*were*cleaned*with bleach.
+1,The chairs,PPT05,critical_04,PS,plural,singular,1,997,The chairs*in the office*were*sorted*by size.
+2,in the office,PPT05,critical_04,PS,plural,singular,1,462,The chairs*in the office*were*sorted*by size.
+3,were,PPT05,critical_04,PS,plural,singular,1,2315,The chairs*in the office*were*sorted*by size.
+4,sorted,PPT05,critical_04,PS,plural,singular,1,3640,The chairs*in the office*were*sorted*by size.
+5,by size.,PPT05,critical_04,PS,plural,singular,1,1820,The chairs*in the office*were*sorted*by size.
+1,The tables,PPT05,critical_03,PP,plural,plural,1,940,The tables*in the cafes*were*cleaned*with bleach.
+2,in the cafes,PPT05,critical_03,PP,plural,plural,1,844,The tables*in the cafes*were*cleaned*with bleach.
+3,were,PPT05,critical_03,PP,plural,plural,1,2289,The tables*in the cafes*were*cleaned*with bleach.
+4,cleaned,PPT05,critical_03,PP,plural,plural,1,2632,The tables*in the cafes*were*cleaned*with bleach.
+5,with bleach.,PPT05,critical_03,PP,plural,plural,1,1536,The tables*in the cafes*were*cleaned*with bleach.
+1,The stone,PPT05,critical_01,*SP,singular,plural,1,933,The stone*in the parks*were*covered*by grass.
+2,in the parks,PPT05,critical_01,*SP,singular,plural,1,863,The stone*in the parks*were*covered*by grass.
+3,were,PPT05,critical_01,*SP,singular,plural,1,1968,The stone*in the parks*were*covered*by grass.
+4,covered,PPT05,critical_01,*SP,singular,plural,1,1812,The stone*in the parks*were*covered*by grass.
+5,by grass.,PPT05,critical_01,*SP,singular,plural,1,2760,The stone*in the parks*were*covered*by grass.
+1,The flower,PPT05,critical_02,*SS,singular,singular,1,733,The flower*in the field*were*buried*in snow.
+2,in the field,PPT05,critical_02,*SS,singular,singular,1,928,The flower*in the field*were*buried*in snow.
+3,were,PPT05,critical_02,*SS,singular,singular,1,3956,The flower*in the field*were*buried*in snow.
+4,buried,PPT05,critical_02,*SS,singular,singular,1,3618,The flower*in the field*were*buried*in snow.
+5,in snow.,PPT05,critical_02,*SS,singular,singular,1,2483,The flower*in the field*were*buried*in snow.
+1,The flower,PPT06,critical_02,*SP,singular,plural,1,701,The flower*in the fields*were*buried*in snow.
+2,in the fields,PPT06,critical_02,*SP,singular,plural,1,753,The flower*in the fields*were*buried*in snow.
+3,were,PPT06,critical_02,*SP,singular,plural,1,2410,The flower*in the fields*were*buried*in snow.
+4,buried,PPT06,critical_02,*SP,singular,plural,1,1854,The flower*in the fields*were*buried*in snow.
+5,in snow.,PPT06,critical_02,*SP,singular,plural,1,1640,The flower*in the fields*were*buried*in snow.
+1,The chairs,PPT06,critical_04,PP,plural,plural,1,661,The chairs*in the offices*were*sorted*by size.
+2,in the offices,PPT06,critical_04,PP,plural,plural,1,482,The chairs*in the offices*were*sorted*by size.
+3,were,PPT06,critical_04,PP,plural,plural,1,1965,The chairs*in the offices*were*sorted*by size.
+4,sorted,PPT06,critical_04,PP,plural,plural,1,2371,The chairs*in the offices*were*sorted*by size.
+5,by size.,PPT06,critical_04,PP,plural,plural,1,1488,The chairs*in the offices*were*sorted*by size.
+1,The table,PPT06,critical_03,*SS,singular,singular,1,925,The table*in the cafe*were*cleaned*with bleach.
+2,in the cafe,PPT06,critical_03,*SS,singular,singular,1,919,The table*in the cafe*were*cleaned*with bleach.
+3,were,PPT06,critical_03,*SS,singular,singular,1,3332,The table*in the cafe*were*cleaned*with bleach.
+4,cleaned,PPT06,critical_03,*SS,singular,singular,1,3924,The table*in the cafe*were*cleaned*with bleach.
+5,with bleach.,PPT06,critical_03,*SS,singular,singular,1,1520,The table*in the cafe*were*cleaned*with bleach.
+1,The stones,PPT06,critical_01,PS,plural,singular,1,1340,The stones*in the park*were*covered*by grass.
+2,in the park,PPT06,critical_01,PS,plural,singular,1,936,The stones*in the park*were*covered*by grass.
+3,were,PPT06,critical_01,PS,plural,singular,1,2324,The stones*in the park*were*covered*by grass.
+4,covered,PPT06,critical_01,PS,plural,singular,1,2041,The stones*in the park*were*covered*by grass.
+5,by grass.,PPT06,critical_01,PS,plural,singular,1,1654,The stones*in the park*were*covered*by grass.
+1,The chair,PPT07,critical_04,*SS,singular,singular,1,1305,The chair*in the office*were*sorted*by size.
+2,in the office,PPT07,critical_04,*SS,singular,singular,1,550,The chair*in the office*were*sorted*by size.
+3,were,PPT07,critical_04,*SS,singular,singular,1,3345,The chair*in the office*were*sorted*by size.
+4,sorted,PPT07,critical_04,*SS,singular,singular,1,3243,The chair*in the office*were*sorted*by size.
+5,by size.,PPT07,critical_04,*SS,singular,singular,1,1380,The chair*in the office*were*sorted*by size.
+1,The table,PPT07,critical_03,*SP,singular,plural,1,1576,The table*in the cafes*were*cleaned*with bleach.
+2,in the cafes,PPT07,critical_03,*SP,singular,plural,1,743,The table*in the cafes*were*cleaned*with bleach.
+3,were,PPT07,critical_03,*SP,singular,plural,1,2207,The table*in the cafes*were*cleaned*with bleach.
+4,cleaned,PPT07,critical_03,*SP,singular,plural,1,2207,The table*in the cafes*were*cleaned*with bleach.
+5,with bleach.,PPT07,critical_03,*SP,singular,plural,1,2239,The table*in the cafes*were*cleaned*with bleach.
+1,The flowers,PPT07,critical_02,PS,plural,singular,1,810,The flowers*in the field*were*buried*in snow.
+2,in the field,PPT07,critical_02,PS,plural,singular,1,991,The flowers*in the field*were*buried*in snow.
+3,were,PPT07,critical_02,PS,plural,singular,1,2640,The flowers*in the field*were*buried*in snow.
+4,buried,PPT07,critical_02,PS,plural,singular,1,2105,The flowers*in the field*were*buried*in snow.
+5,in snow.,PPT07,critical_02,PS,plural,singular,1,2983,The flowers*in the field*were*buried*in snow.
+1,The stones,PPT07,critical_01,PP,plural,plural,1,989,The stones*in the parks*were*covered*by grass.
+2,in the parks,PPT07,critical_01,PP,plural,plural,1,921,The stones*in the parks*were*covered*by grass.
+3,were,PPT07,critical_01,PP,plural,plural,1,2152,The stones*in the parks*were*covered*by grass.
+4,covered,PPT07,critical_01,PP,plural,plural,1,3021,The stones*in the parks*were*covered*by grass.
+5,by grass.,PPT07,critical_01,PP,plural,plural,1,2424,The stones*in the parks*were*covered*by grass.
+1,The stone,PPT08,critical_01,*SS,singular,singular,1,765,The stone*in the park*were*covered*by grass.
+2,in the park,PPT08,critical_01,*SS,singular,singular,1,420,The stone*in the park*were*covered*by grass.
+3,were,PPT08,critical_01,*SS,singular,singular,1,3402,The stone*in the park*were*covered*by grass.
+4,covered,PPT08,critical_01,*SS,singular,singular,1,4918,The stone*in the park*were*covered*by grass.
+5,by grass.,PPT08,critical_01,*SS,singular,singular,1,2368,The stone*in the park*were*covered*by grass.
+1,The chair,PPT08,critical_04,*SP,singular,plural,1,816,The chair*in the offices*were*sorted*by size.
+2,in the offices,PPT08,critical_04,*SP,singular,plural,1,609,The chair*in the offices*were*sorted*by size.
+3,were,PPT08,critical_04,*SP,singular,plural,1,2708,The chair*in the offices*were*sorted*by size.
+4,sorted,PPT08,critical_04,*SP,singular,plural,1,2763,The chair*in the offices*were*sorted*by size.
+5,by size.,PPT08,critical_04,*SP,singular,plural,1,1202,The chair*in the offices*were*sorted*by size.
+1,The flowers,PPT08,critical_02,PP,plural,plural,1,908,The flowers*in the fields*were*buried*in snow.
+2,in the fields,PPT08,critical_02,PP,plural,plural,1,642,The flowers*in the fields*were*buried*in snow.
+3,were,PPT08,critical_02,PP,plural,plural,1,1967,The flowers*in the fields*were*buried*in snow.
+4,buried,PPT08,critical_02,PP,plural,plural,1,1784,The flowers*in the fields*were*buried*in snow.
+5,in snow.,PPT08,critical_02,PP,plural,plural,1,2800,The flowers*in the fields*were*buried*in snow.
+1,The tables,PPT08,critical_03,PS,plural,singular,1,463,The tables*in the cafe*were*cleaned*with bleach.
+2,in the cafe,PPT08,critical_03,PS,plural,singular,1,332,The tables*in the cafe*were*cleaned*with bleach.
+3,were,PPT08,critical_03,PS,plural,singular,1,2504,The tables*in the cafe*were*cleaned*with bleach.
+4,cleaned,PPT08,critical_03,PS,plural,singular,1,2523,The tables*in the cafe*were*cleaned*with bleach.
+5,with bleach.,PPT08,critical_03,PS,plural,singular,1,1298,The tables*in the cafe*were*cleaned*with bleach.

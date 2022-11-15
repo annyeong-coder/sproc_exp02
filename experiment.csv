@@ -1,0 +1,33 @@
+ITEM,CONDITION,FACTOR1,FACTOR2,SENTENCE,QUESTION,QUESTION_PRESENTATION,CORRECT,WRONG,LIST,TYPE
+critical_01,*SS,singular,singular,The stone*in the park*were*covered*by grass.,Was the stone covered by grass?,1,1,0,1,critical
+critical_01,*SP,singular,plural,The stone*in the parks*were*covered*by grass.,Was the stone covered by grass?,1,1,0,2,critical
+critical_01,PS,plural,singular,The stones*in the park*were*covered*by grass.,Were the stones covered by grass?,1,1,0,3,critical
+critical_01,PP,plural,plural,The stones*in the parks*were*covered*by grass.,Were the stones covered by grass?,1,1,0,4,critical
+critical_02,*SS,singular,singular,The flower*in the field*were*buried*in snow.,Was there a flower under the snow?,1,1,0,2,critical
+critical_02,*SP,singular,plural,The flower*in the fields*were*buried*in snow.,Was there a flower under the snow?,1,1,0,3,critical
+critical_02,PS,plural,singular,The flowers*in the field*were*buried*in snow.,Were there flowers under the snow?,1,1,0,4,critical
+critical_02,PP,plural,plural,The flowers*in the fields*were*buried*in snow.,Were there flowers under the snow?,1,1,0,1,critical
+critical_03,*SS,singular,singular,The table*in the cafe*were*cleaned*with bleach.,Was the table cleaned with soap?,1,0,1,3,critical
+critical_03,*SP,singular,plural,The table*in the cafes*were*cleaned*with bleach.,Was the table cleaned with soap?,1,0,1,4,critical
+critical_03,PS,plural,singular,The tables*in the cafe*were*cleaned*with bleach.,Were the tables cleaned with soap?,1,0,1,1,critical
+critical_03,PP,plural,plural,The tables*in the cafes*were*cleaned*with bleach.,Were the tables cleaned with soap?,1,0,1,2,critical
+critical_04,*SS,singular,singular,The chair*in the office*were*sorted*by size.,Was the chair sorted by color?,1,0,1,4,critical
+critical_04,*SP,singular,plural,The chair*in the offices*were*sorted*by size.,Was the chair sorted by color?,1,0,1,1,critical
+critical_04,PS,plural,singular,The chairs*in the office*were*sorted*by size.,Were the chairs sorted by color?,1,0,1,2,critical
+critical_04,PP,plural,plural,The chairs*in the offices*were*sorted*by size.,Were the chairs sorted by color?,1,0,1,3,critical
+filler_01,na,na,na,Robin*read*a book*on the couch*and*Leslie*read*a book*on the bench.,Did Robin read a book on the couch?,1,1,0,1,filler
+filler_01,na,na,na,Robin*read*a book*on the couch*and*Leslie*read*a book*on the bench.,Did Robin read a book on the couch?,1,1,0,2,filler
+filler_01,na,na,na,Robin*read*a book*on the couch*and*Leslie*read*a book*on the bench.,Did Robin read a book on the couch?,1,1,0,3,filler
+filler_01,na,na,na,Robin*read*a book*on the couch*and*Leslie*read*a book*on the bench.,Did Robin read a book on the couch?,1,1,0,4,filler
+filler_02,na,na,na,Sam*placed*a letter*on the desk*and*Tina*placed*a letter*on the table.,Did Sam place a letter on the desk?,1,1,0,2,filler
+filler_02,na,na,na,Sam*placed*a letter*on the desk*and*Tina*placed*a letter*on the table.,Did Sam place a letter on the desk?,1,1,0,3,filler
+filler_02,na,na,na,Sam*placed*a letter*on the desk*and*Tina*placed*a letter*on the table.,Did Sam place a letter on the desk?,1,1,0,4,filler
+filler_02,na,na,na,Sam*placed*a letter*on the desk*and*Tina*placed*a letter*on the table.,Did Sam place a letter on the desk?,1,1,0,1,filler
+filler_03,na,na,na,Eric*folded*the towel*in the bathroom*and*Jessy*folded*the towel*in the bedroom.,Did Jessy fold the towel in the bathroom?,1,0,1,3,filler
+filler_03,na,na,na,Eric*folded*the towel*in the bathroom*and*Jessy*folded*the towel*in the bedroom.,Did Jessy fold the towel in the bathroom?,1,0,1,4,filler
+filler_03,na,na,na,Eric*folded*the towel*in the bathroom*and*Jessy*folded*the towel*in the bedroom.,Did Jessy fold the towel in the bathroom?,1,0,1,1,filler
+filler_03,na,na,na,Eric*folded*the towel*in the bathroom*and*Jessy*folded*the towel*in the bedroom.,Did Jessy fold the towel in the bathroom?,1,0,1,2,filler
+filler_04,na,na,na,Ben*loaded*boxes*in the truck*and*Hannah*loaded*boxes*in the car.,Did Hannah load boxes in the truck?,1,0,1,4,filler
+filler_04,na,na,na,Ben*loaded*boxes*in the truck*and*Hannah*loaded*boxes*in the car.,Did Hannah load boxes in the truck?,1,0,1,1,filler
+filler_04,na,na,na,Ben*loaded*boxes*in the truck*and*Hannah*loaded*boxes*in the car.,Did Hannah load boxes in the truck?,1,0,1,2,filler
+filler_04,na,na,na,Ben*loaded*boxes*in the truck*and*Hannah*loaded*boxes*in the car.,Did Hannah load boxes in the truck?,1,0,1,3,filler

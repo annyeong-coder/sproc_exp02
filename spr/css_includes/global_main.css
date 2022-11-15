@@ -1,0 +1,418 @@
+body {
+    color:  black;
+    background-color: white;
+    margin-left: 0;
+    margin-top: 1em;
+    text-align: center;
+}
+a {
+	color: black;
+}
+
+
+
+
+
+.lindent { margin-left: 5em; }
+
+.sending-results {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.newTextInput {
+    margin-top: 1em;
+    margin-bottom:1em;
+    width:900px;
+    font-size: inherit;
+}
+
+newButton {
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: 2em;
+    font-size: 5em;
+}
+
+div.bar-container {
+    border: 1px solid;
+    border-color: black;
+    background-color: white;
+}
+div.bar {
+    background-color:  blue;
+}
+div.fancy {
+    color: white;
+}
+
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;    
+}
+
+p.progress-text {
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-size: small;
+    text-align: center;
+}
+p.practice-box {
+    color:  black;
+    height: 1.5em;
+    padding-bottom: 1em;
+    font-size: small;
+    text-align: center;
+}
+span.retry {
+    color:  OldLace;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+span.retry:hover {
+    text-decoration: underline;
+}
+span.retry:visited {
+    color:  OldLace;
+}
+
+
+.canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+.canvas {
+   display: inline;
+}
+
+
+.PennController-Scale .option {
+    margin: 0em 0.5em;
+}
+
+.DashedSentence-sentence {
+     background-color: white;
+     clear: both;
+     font-size: 22px;
+}
+.DashedSentence-question {
+     padding-left: 0.6em;
+     font-size: 22px;
+     text-align: center;
+}
+.DashedSentence-rating {
+    padding-left: 0.6em;
+    font-size: 22px;
+}
+.DashedSentence-sentence {
+    line-height: 400%;
+    font-size: 22px;
+}
+.DashedSentence-ospan {
+     border-bottom: 1px solid #9ea4b1;
+     background-color: white;
+     font-size: 22px;
+}
+.DashedSentence-ispan {
+     visibility: hidden;
+}
+.DashedSentence-practice-text {
+    color: blue; 
+    font-weight: bold;
+    font-size: 22px;
+}
+.DashedSentence-iphone-next {
+    clear: both;
+    background: black;
+    color: white;
+    foreground: white;
+    text-align: center;
+    display: table;
+    font-size: 22px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: bold;
+    -webkit-border-radius: 5px;
+}
+
+
+.ETForm-error-text {
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+.ETMessage-ETMessage {
+    font-size: medium;
+    width: 40em;
+    font-size: 22px;
+}
+.ETMessage-continue-link { text-decoration: none; color: blue; }
+.ETMessage-continue-link:hover { text-decoration: none; color: blue; }
+.ETMessage-continue-link:visited { color: blue; }
+
+
+
+.FlashSentence-loading {
+    font-style: italic;
+    font-size: 22px;
+}
+
+
+.Form-error-text {
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+.Message-message {
+    font-size: medium;
+    width: 40em;
+    font-size: 22px;
+}
+.Message-continue-link { text-decoration: none; color: blue; font-size: 22px;}
+.Message-continue-link:hover { text-decoration: underline; color: blue; font-size: 22px;}
+.Message-continue-link:visited { color: blue; font-size: 22px;}
+
+
+.Question-Question {
+    margin-left: 0;
+    padding-left: 0;
+    font-size: 22px;
+    text-align: center;
+}
+.Question-instructions-text {
+    font-style: italic;
+    clear: left;
+    padding-top: 1em;
+    font-size: small;
+    font-size: 22px;
+}
+li.Question-normal-answer {
+    text-align: center;
+    cursor: pointer;
+    padding-bottom: 1em;
+    font-size: 22px;
+}
+li:hover.Question-normal-answer {
+    cursor: pointer;
+    font-size: 22px;
+}
+li.Question-scale-box {
+    float: left;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 1em;
+    padding-right: 0;
+    border: 1px #9ea4b1 solid;
+    width: 2em;
+    height: 2em;
+    padding-top: 0.5em;
+    text-align: center;
+    font-size: 22px;
+}
+.Question-scale-comment-box {
+    float: left;
+    list-style: none;
+    margin-left: 0em;
+    padding-left: 0;
+    margin-right: 1em;
+    padding-right: 0;
+    padding-top: 0.5em;
+    text-align: center;
+    font-style: italic;
+    font-size: 22px;
+}
+li.Question-scale-box a {
+    text-decoration: none; 
+    display: block;
+    vertical-align: middle;
+    font-size: 22px;
+}
+li.Question-scale-box a:hover {
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    font-size: 22px;
+}
+span.Question-fake-link {
+    color: blue;
+    cursor: pointer;
+    font-size: 22px;
+}
+span:hover.Question-fake-link {
+    cursor: pointer;
+    font-size: 22px;
+}
+
+
+.ReversibleDashedSentence-sentence {
+     background-color: white;
+     font-size: 22px;
+     clear: both;
+}
+.ReversibleDashedSentence-question {
+     padding-left: 0.6em;
+     font-size: 22px;
+}
+.ReversibleDashedSentence-rating {
+    padding-left: 0.6em;
+    font-size: 22px;
+}
+.ReversibleDashedSentence-sentence {
+    line-height: 400%;
+    font-size: 22px;
+}
+.ReversibleDashedSentence-ospan {
+     border-bottom: 1px solid #9ea4b1;
+     background-color: white;
+     font-size: 22px;
+}
+.ReversibleDashedSentence-ispan {
+     visibility: hidden;
+     font-size: 22px;
+}
+.ReversibleDashedSentence-practice-text {
+    color: blue;
+    font-weight: bold;
+    font-size: 22px;
+}
+.ReversibleDashedSentence-iphone-next {
+    clear: both;
+    background: black;
+    color: white;
+    foreground: white;
+    text-align: center;
+    display: table;
+    font-size: 22px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: bold;
+    -webkit-border-radius: 5px;
+}
+
+
+.Scale-html {
+    text-align: center;
+    margin-bottom: 2em;
+    font-size: 22px;
+}
+.Scale-bar {
+    margin-top: 5px;
+    width: 300px;
+    height: 20px;
+    
+    
+}
+.Scale-handle  , .Scale-handle-label  , .Scale-scale-label {
+    font-family: sans-serif;
+    position: absolute;
+}
+.Scale-handle {
+    width: 30px;
+    height: 30px;
+    cursor: default;
+    font-face: bold;
+    border: 1px solid white;
+}
+.Scale-button {
+    width: 7em;
+    height: 1.5em;
+    background: #26396B;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    border-radius: 5px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.2em;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+.Separator-next-item-failure-message {
+    color: red;
+    font-size: 22px;
+}
+.Separator-next-item-message {
+    font-style: italic;
+    font-size: 22px;
+}
+
+
+body {
+    color: black;
+    background-color: white;
+    margin-left: 0;
+    margin-top: 3em;
+    font-size: 22px;
+}
+.lindent { margin-left: 5em; }
+.sending-results {
+    font-weight: bold;
+    font-size: medium;
+    font-size: 22px;
+}
+div.bar-container {
+    border: 1px solid;
+    border-color: #9ea4b1;
+    background-color: white;
+    font-size: 22px;
+}
+div.bar {
+    background-color: blue;
+    font-size: 22px;
+}
+p.progress-text {
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-style: italic;
+    font-size: 18px;
+}
+p.practice-box {
+    color: blue;
+    height: 1.5em;
+    padding-bottom: 1em;
+    font-size: 18px;
+    text-align: center;
+}
+span.retry {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 22px;
+}
+span.retry:hover {
+    text-decoration: underline;
+}
+span.retry:visited {
+    color: blue;
+    font-size: 22px;
+}
+

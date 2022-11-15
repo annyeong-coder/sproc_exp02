@@ -1,0 +1,6 @@
+﻿ITEM,CONDITION,SENTENCE,QUESTION,QUESTION_PRESENTATION,CORRECT,WRONG
+practice_01,practice,This*is*a practice sentence*to*get*you*used*to*reading*sentences like this.,"After each sentence, a question will appear. For example, are you a human? Click the answer.",1,1,0
+practice_02,practice,"John’s*books*were*written*in English,*but*Mary’s*was*written*in French.",Were Mary's books written in English?,1,0,1
+practice_03,practice,The fireman*who*killed*himself*last year*was*the son*of*my friend.,Did the fireman kill himself?,1,1,0
+practice_04,practice,The book*that*the teacher*gave*me*last week*was*very boring.,Did the teacher give me the book?,1,1,0
+practice_05,practice,"Mom’s*car*was*broken,*but*dad's*were*not.",Was dad's car broken?,1,0,1,yes,no
